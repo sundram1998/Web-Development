@@ -1,0 +1,15 @@
+div {
+  color: #000000;
+  background-color: rgb(247, 247, 124);
+  margin: 10px;
+  font-size: 25px;
+}
+h1 {
+  color: rgb(56, 52, 52);
+}
+body {
+  background: linear-gradient(to top left, #28b487, #7dd56f);
+}
+p {
+  border: 2px solid powderblue;
+}
